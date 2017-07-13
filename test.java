@@ -4,4 +4,8 @@ public test {
     test() {
 
     }
+
+    test() {
+        i = 2;
+    }
 }
